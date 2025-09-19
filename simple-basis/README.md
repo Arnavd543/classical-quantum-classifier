@@ -1,0 +1,1 @@
+This code implements a simple classical-quantum classifier using PennyLane. I used a quantum circuit with angle embedding and basic entangler layers to classify the "moons" dataset. The model is trained using ADAM optimization. It achieves an accuracy of 65% on test data.
